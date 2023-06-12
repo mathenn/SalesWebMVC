@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\CSharp\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\CSharp\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\CSharp\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectPath": "C:\\CSharp\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "outputPath": "C:\\CSharp\\SalesWebMvc\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
